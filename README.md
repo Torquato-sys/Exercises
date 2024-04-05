@@ -24,6 +24,7 @@
 <h1>Technologies</h1>
 
 ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)  
+![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Static Badge](https://img.shields.io/badge/Google%20Colab-black?style=for-the-badge&logo=google-colab&logoColor=white)
 
 
