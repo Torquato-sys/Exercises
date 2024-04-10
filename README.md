@@ -28,7 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/Google%20Colab-black?style=for-the-badge&logo=google-colab&logoColor=white)
 
 
-<h1>license </h1>
+<h1>License </h1>
 
 ![GitHub License](https://img.shields.io/github/license/Torquato-sys/Exercises)
 
