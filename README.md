@@ -27,6 +27,7 @@
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Static Badge](https://img.shields.io/badge/Google%20Colab-black?style=for-the-badge&logo=google-colab&logoColor=white)
 
+---
 
 <h1>License </h1>
 
