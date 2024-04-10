@@ -15,7 +15,7 @@
 
 - [x]  __Logica de Programação__
 - [x]  __Identação__
-- [x]  __Estrutura de Dados__
+- [x]  __Estruturas de Dados__
 - [x]  __POO__
 - [X]  __Clean Code__
 
